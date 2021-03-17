@@ -17,7 +17,7 @@ Hi! My name is Klaudia Zwierz. I am at the beginning of my professional career r
 <li> JUnit </li>
 <li> JMeter </li>
 <li> GIT </li> 
-<li Github </li> 
+<li> Github </li> 
 <li> <a href="http://atlassian.com/software/jira0"> JIRA </a> </li>
 <li> <a href="https://www.postman.com/"> Postman </a> </li>
 <li> <a href="https://testlink.org/"> TestLink </a> </li>
