@@ -39,12 +39,4 @@ Hi! My name is Klaudia Zwierz. I am at the beginning of my professional career r
 <li> Tester oprogramowania - wsparcie na starcie </li>
 <li> Testowanie oprogramowania </li>
 <li> Tester oprogramowania </li> 
-<h2> My test case examples </h2>
-<li> </li>
-<h2> My bug reports </h2> 
-<li></li>
-<h2> My projects </h2>
-<li></li> 
-
-
 
