@@ -1,10 +1,14 @@
 <h1> Portfolio </h1>
 <h2> About Me </h2>
 Hi! My name is Klaudia Zwierz. I am at the beginning of my professional career related to software testing. Previously, I worked as a customer service specialist. I want to develop my testing and technical skills. Below is my experience so far from the courses and personal research.
-<h2> Technical skills and tools </h3> 
+<h2> Courses </h2> 
+<li> CODERS LAB SZKOŁA IT, KURS TESTER AUTOMATYZUJĄCY </li>
+<li> CODERS LAB SZKOŁA IT, KURS TESTER MANUALNY </li> 
+<h2> Certificates </h2> 
+<li> ISTQB no.  </li> 
+<h2> Technical skills and tools </h2> 
 <li> Software testing </li>
 <li> Creating test cases </li>
-<li> Creating test scrips </li>
 <li> Reporting bugs </li>
 <li> SCRUM </li>
 <li> SQL </li>
@@ -22,11 +26,6 @@ Hi! My name is Klaudia Zwierz. I am at the beginning of my professional career r
 <li> <a href="https://www.postman.com/"> Postman </a> </li>
 <li> <a href="https://testlink.org/"> TestLink </a> </li>
 <li> <a href="https://www.soapui.org/"> SOAP UI </a> </li> 
-<h2> Courses </h2> 
-<li> CODERS LAB SZKOŁA IT, KURS TESTER AUTOMATYZUJĄCY </li>
-<li> CODERS LAB SZKOŁA IT, KURS TESTER MANUALNY </li> 
-<h2> Certificates </h2> 
-<li> ISTQB no.  </li> 
 <h2> Books </h2> 
 <li> R.Smilgin - Zawód tester </li> 
 <li> R. Pawlak - Testowanie. Oprogramowania Podręcznik Dla Początkujacych </li>
