@@ -1,6 +1,5 @@
-<h1> Portfolio </h1>
 <h2> About Me </h2>
-Hi! My name is Klaudia Zwierz. I am at the beginning of my professional career related to software testing. Previously, I worked as a customer service specialist. I want to develop my testing and technical skills. Below is my experience so far from the courses and personal research.
+My name is Klaudia Zwierz. I am at the beginning of my professional career related to software testing. Previously, I worked as a customer service specialist. I want to develop my testing and technical skills. Below is my experience so far from the courses and personal research.
 <h2> Courses </h2> 
 <li> CODERS LAB SZKOŁA IT, KURS TESTER AUTOMATYZUJĄCY </li>
 <li> CODERS LAB SZKOŁA IT, KURS TESTER MANUALNY </li> 
