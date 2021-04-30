@@ -4,7 +4,7 @@ My name is Klaudia Zwierz. I am at the beginning of my professional career relat
 <li> CODERS LAB SZKOŁA IT, KURS TESTER AUTOMATYZUJĄCY </li>
 <li> CODERS LAB SZKOŁA IT, KURS TESTER MANUALNY </li> 
 <h2> Certificates </h2> 
-<li> ISTQB no.  </li> 
+<li> ISTQB Certified Tester Foundation Level </li> 
 <h2> Technical skills and tools </h2> 
 <li> Software testing </li>
 <li> Creating test cases </li>
