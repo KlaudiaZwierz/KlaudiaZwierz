@@ -25,6 +25,7 @@ My name is Klaudia Zwierz. I am at the beginning of my professional career relat
 <li> <a href="https://www.postman.com/"> Postman </a> </li>
 <li> <a href="https://testlink.org/"> TestLink </a> </li>
 <li> <a href="https://www.soapui.org/"> SOAP UI </a> </li> 
+<h2> My Test Documentation </h2>
 <h2> Books </h2> 
 <li> R.Smilgin - Zawód tester </li> 
 <li> R. Pawlak - Testowanie. Oprogramowania Podręcznik Dla Początkujacych </li>
@@ -37,5 +38,4 @@ My name is Klaudia Zwierz. I am at the beginning of my professional career relat
 <li> Tester oprogramowania - wsparcie na starcie </li>
 <li> Testowanie oprogramowania </li>
 <li> Tester oprogramowania </li> 
-<h2> My Test Documentation </h2>
 
