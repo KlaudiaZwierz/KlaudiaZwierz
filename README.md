@@ -26,6 +26,8 @@ My name is Klaudia Zwierz. I am at the beginning of my professional career relat
 <li> <a href="https://testlink.org/"> TestLink </a> </li>
 <li> <a href="https://www.soapui.org/"> SOAP UI </a> </li> 
 <h2> My Test Documentation </h2>
+<li> <a href="https://drive.google.com/file/d/1Mbc01phh4lhy6D2dON-D8u3A_XOjWpCh/view?usp=sharing"> Zgłoszone błędy </a> </li> 
+<li> <a href="https://drive.google.com/file/d/1ua4elfGMMsRDdveNX4OqrCOtGVJQZ7ik/view?usp=sharing"> Przypadki testowe </a> </li> 
 <h2> My Project </h2>
 <li> <a href="https://github.com/KlaudiaZwierz/Selenium-Exercises"> Selenium </a> </li>
 <h2> Books </h2> 
